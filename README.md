@@ -190,7 +190,7 @@ Expected Output :
 45°F is 7 in Celsius
 ```
 
-## CODING QUESTIONS:8
+## CODING QUESTIONS:9
 
 Write a Python program to calculate the sum of the positive integers of n+(n-2)+(n-4)...
 (until n-x =< 0).
@@ -201,7 +201,7 @@ sum_series(10) -> 30
 ```
 
 
-## CODING QUESTIONS:9
+## CODING QUESTIONS:10
 
 Write a Python program to check whether a given a binary tree is a valid binary search
 tree (BST) or not.
@@ -224,7 +224,7 @@ Example 2:
 Binary tree [1,2,3], return false.
 ```
 
-## CODING QUESTIONS:10
+## CODING QUESTIONS:11
 
 Write a Python program to sort a list of elements using the selection sort algorithm.
 Note: The selection sort improves on the bubble sort by making only one exchange for
@@ -237,7 +237,7 @@ Expected Result:
 ```
 
 
-## CODING QUESTIONS:11
+## CODING QUESTIONS:12
 
 Write a Python program to get a week number.
 ```
@@ -247,7 +247,7 @@ Expected Output :
 25
 ```
 
-## CODING QUESTIONS:12
+## CODING QUESTIONS:13
 
 Write a Python program to count the number of students of the individual class.
 ```
