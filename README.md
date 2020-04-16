@@ -2,15 +2,6 @@
 
 # PROBLEM STATEMENT
 
-# TECHNOLOGY: PYTHON
-
-Complete all the 10 coding questions given below. In order to clear this assignment,
-your code should pass the test cases. Create a Github repository and commit all your
-10 codes in your Github repository.
-
-Alongside, create a HackerRank account and complete the task “30 days of code”.
-
-
 ## CODING QUESTIONS:1
 Read two integers from STDIN and print three lines where:
 ● The first line contains the sum of the two numbers.
